@@ -18,7 +18,7 @@ public class PracticeProjectApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(PracticeProjectApplication.class, args);
-		
+		System.out.println("A");
 		
 //		UserRepository userRepository = context.getBean(UserRepository.class);
 //		
