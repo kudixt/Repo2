@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+@FONT-FACE {
+	font-family: kruti-dev;
+	src: url("Kruti_Dev_010.ttf");
+	font-size: 14pt;
+}
+
+@FONT-FACE {
+	font-family: mangal;
+	src: url("mangal.ttf");
+	font-size: 14pt;
+}
+@FONT-FACE {
+	font-family: Verdana;
+	src: url("verdana.ttf");
+}
+
+@FONT-FACE{
+	font-family: Poppins;
+	src: url("Poppins-Regular.ttf");
+}
+
+@FONT-FACE{
+	font-family: Josefin;
+	src: url("JosefinSans-VariableFont_wght.ttf");
+}
+
+@FONT-FACE{
+	font-family: Anta;
+	src: url("Anta-Regular.ttf");
+}
+
+@FONT-FACE{
+	font-family: Macondo;
+	src: url("Macondo-Regular.ttf");
+}
+
+@FONT-FACE{
+	font-family: Aclonica;
+	src: url("Aclonica-Regular.ttf");
+}
+
+@FONT-FACE{
+	font-family: Exo2;
+	src: url("Exo2.ttf") format('Exo2');
+    /* Add additional font formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@FONT-FACE{
+	font-family: Mukta;
+	src: url("Mukta-Regular.ttf");
+}

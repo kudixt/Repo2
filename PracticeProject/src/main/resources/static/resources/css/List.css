@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+	th{
+		text-align:center;
+		font-family: Encode Sans SC;
+	}
+	
+	td{
+		font-family: Poppins;
+	}
+	
+	h2{
+		font-family: Cormorant Garamond;
+	}
